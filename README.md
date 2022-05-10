@@ -2,7 +2,7 @@
 
 개발 환경 
        Program : Eclipse
-      Language: JAVA, Swing, awt 사용 
+      Language: JAVA, Java Swing, Java awt 
       
 기능 
        회원가입, 회원정보 수정, 로그인, 비밀번호 찾기, 호텔 예약, 결제정보 출력, 예약조회 및 취소
