@@ -2,14 +2,14 @@
 기간 : 1개월
 
 개발 환경 
+
        Program : Eclipse
-      Language: JAVA, Java Swing, Java awt 
+       Language: JAVA, Java Swing, Java awt 
       
-기능 
+기능
+
        회원가입, 회원정보 수정, 로그인, 비밀번호 찾기, 호텔 예약, 결제정보 출력, 예약조회 및 취소
        Swing을 활용한 Java GUI 프로젝트 입니다.
-
-<br><br>
 
 1. 로그인 및 회원가입
 <br>
