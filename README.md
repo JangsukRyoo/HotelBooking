@@ -10,8 +10,7 @@
 
        회원가입, 회원정보 수정, 로그인, 비밀번호 찾기, 호텔 예약, 결제정보 출력, 예약조회 및 취소
        Swing을 활용한 Java GUI 프로젝트 입니다.
-<br><br>
-
+       
 1. 로그인 및 회원가입
 <p>
        <img src="https://user-images.githubusercontent.com/70876778/167740173-c52fc209-94b0-46fd-874e-14173eca7e5d.jpg"  width="150" height="300" >
