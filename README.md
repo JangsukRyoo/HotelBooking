@@ -19,7 +19,7 @@
 </p>
        
 <br>
-2.메인페이지<br>
+2. 메인페이지<br>
 <img src="https://user-images.githubusercontent.com/70876778/167740175-70b9cc78-1414-4979-8162-0bbe886e45d1.jpg"   width="150" height="300"  >
 호텔리스트, 예약조회, 개인정보 설정
 <br><br>
