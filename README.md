@@ -17,13 +17,12 @@
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        <img src="https://user-images.githubusercontent.com/70876778/167740172-150f9bf6-6828-404f-b48b-0ee520aef384.jpg"  width="150" height="300" >
 </p>
-로그인시 아이디가 없을 경우 회원가입을 먼저 해야합니다.
        
 <br>
 <br>
 2.메인페이지<br>
 <img src="https://user-images.githubusercontent.com/70876778/167740175-70b9cc78-1414-4979-8162-0bbe886e45d1.jpg"   width="150" height="300"  >
-호텔리스트, 예약조회, 개인정보 설정이 있습니다.
+호텔리스트, 예약조회, 개인정보 설정
 <br><br>
 3. 호텔 리스트<br>
 <p> 
@@ -37,7 +36,7 @@
 <br><br>
 4.예약조회<br>
  <img src="https://user-images.githubusercontent.com/70876778/167740177-d8ca7a16-660a-412e-ab0c-890e8d6ef234.jpg" width="150" height="300" > 
- 자신이 예약한 호텔을 확인 할 수 있습니다.
+ 호텔 예약 조회 및 예약 취소 
  <br><br>
  5. 개인정보 설정<br>
 <img src="https://user-images.githubusercontent.com/70876778/167740178-be25dea8-f5a5-4758-a642-1441b6e96d0e.jpg" width="150" height="300" > 
