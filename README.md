@@ -4,7 +4,7 @@
 개발 환경 
 
        Program : Eclipse
-       Language: JAVA, Java Swing, Java awt 
+       Language: JAVA, Java Swing, Java awt
       
 기능
 
