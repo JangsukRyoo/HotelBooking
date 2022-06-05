@@ -20,7 +20,6 @@
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        <img src="https://user-images.githubusercontent.com/70876778/167740172-150f9bf6-6828-404f-b48b-0ee520aef384.jpg"  width="150" height="300" >
 </p>
-       
 <br>
 2. 메인페이지<br>
 <img src="https://user-images.githubusercontent.com/70876778/167740175-70b9cc78-1414-4979-8162-0bbe886e45d1.jpg"   width="150" height="300"  >
